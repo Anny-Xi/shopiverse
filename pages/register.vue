@@ -81,7 +81,7 @@ const signUp = async () => {
                 full_name: userName.value,
                 address: address.value
             },
-            emailRedirectTo: 'https://shopiversee.netlify.app/'
+            emailRedirectTo: 'https://main--anny-test-shopiverse.netlify.app/'
         }
     })
 

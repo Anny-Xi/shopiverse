@@ -69,7 +69,7 @@ const handleSubmit = async () => {
         elements,
         confirmParams: {
             // Make sure to change this to your payment completion page
-            return_url: "http://localhost:3000/payment-success",
+            return_url: "https://main--anny-test-shopiverse.netlify.app/payment-success",
         },
     });
 
